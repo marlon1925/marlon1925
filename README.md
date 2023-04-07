@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/marloking25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marloking25" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/marlon-andres-996203200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marlon-andres-996203200" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/marlon-lalangui-996203200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marlon-andres-996203200" height="30" width="40" /></a>
 <a href="https://fb.com/100010332610472" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100010332610472" height="30" width="40" /></a>
 <a href="https://instagram.com/marlon__andres__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marlon__andres__" height="30" width="40" /></a>
 </p>
