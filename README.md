@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marlon</h1>
-<h3 align="center">- Estudiante de la Escuela Politecnica Nacional 👨‍🎓 Estudio la carrera de Desarrollo de Software</h3>
+<h3 align="center">- Estudiante de la Escuela Politecnica Nacional 🏤</h3>
+<h3 align="center">- Estudio la carrera de Desarrollo de Software 👨‍🎓</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
